@@ -1,0 +1,2 @@
+jdbcname=mysql
+password=123456
